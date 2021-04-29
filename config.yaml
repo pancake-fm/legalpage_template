@@ -1,6 +1,6 @@
 home:
   name: 🥞.fm
-  logo: https://static.legalpage.org/images/legalpage.png # 264px * 80px
+  logo: https://raw.githubusercontent.com/pancake-fm/legalpage_template/master/logo.png # 264px * 80px
   description: Your legal page served from git
   website: "https://legalpage.org"
   
