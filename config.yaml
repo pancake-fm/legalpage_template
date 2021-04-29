@@ -1,6 +1,7 @@
 home:
   name: 🥞.fm
   #logo: https://static.legalpage.org/images/legalpage.png # 264px * 80px
+  logo:
   description: Your legal page served from git
   website: "https://legalpage.org"
   
